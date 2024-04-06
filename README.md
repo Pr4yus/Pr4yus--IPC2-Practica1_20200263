@@ -1,2 +1,2 @@
-# Pr4yus--IPC2-Practica1_20200263
+# Pr4yus--IPC2-Practica2_20200263
 Uso frameworks
